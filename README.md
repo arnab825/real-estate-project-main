@@ -7,7 +7,7 @@ This project is a responsive landing page for a real estate company, replicating
 - Clean and visually appealing design resembling real estate project
 - Responsive layout for optimal viewing on various devices (desktop, tablet, mobile)
 - Here is the Demo:
-- ![real-estate](https://github.com/arnab825/real-estate-project-main/assets/123316405/dfc7c6bb-8f48-4541-b5cf-df840f6add35)
+![real-estate](https://github.com/arnab825/real-estate-project-main/assets/123316405/0d7c46f4-db99-4c4e-838c-c41599c1417e)
 
 
 ## Installation
