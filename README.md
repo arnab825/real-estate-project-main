@@ -1,6 +1,6 @@
 # Real Estate Project
 
-This project is a responsive landing page for a real estate company, replicating the visual style of 7up.
+This project is a responsive landing page for a real estate company, replicating the visual style of real estate project using figma.
 
 ### Features
 
