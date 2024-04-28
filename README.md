@@ -19,7 +19,6 @@ This project is a responsive landing page for a real estate company, replicating
    ```bash
    cd real-estate-project-main
 
-   # Contributing
 **Feel free to:**
 
 * Use this code as a learning resource or starting point for your own web development projects.
